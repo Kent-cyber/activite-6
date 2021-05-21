@@ -1,0 +1,29 @@
+body {
+    background: rgb(240, 240, 240);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    background: grey;
+    height: 25vh;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+    font-size: 10vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: blue 1px 0 10px;;
+}
+
+article {
+    display: flex;
+    flex-flow: wrap;
+    margin: 0 10%;
+}
+
+p {
+    font-size: 3vh;
+}
